@@ -1,1 +1,1 @@
-# build-a-simple-calculator-in-python
+# build-a-simple-calculator
